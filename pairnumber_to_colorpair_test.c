@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "colorpair.h"
+#include "paircolorcode_main.h"
 
 const char* MajorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
