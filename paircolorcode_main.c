@@ -1,4 +1,4 @@
-#include "paircolorcode_config.h"
+#include "paircolorcode_main.h"
 
 void PrintColorReferenceManual(void) {
     char colorPairNames[MAX_COLORPAIR_NAME_CHARS];
