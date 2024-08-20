@@ -8,6 +8,7 @@ int main() {
     testPairToNumber(VIOLET, SLATE, 25);
 
     // Set the flag to 1 when you want to print the manual for testing
+    int printColorReferenceManual = 0;
     printColorReferenceManual = 1;
     PrintColorReferenceManual();
 
