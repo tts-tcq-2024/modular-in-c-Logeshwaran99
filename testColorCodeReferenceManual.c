@@ -1,7 +1,4 @@
-#include "ColorCode.h"
-#include "GetColorFromPairNumber.h"
-#include "GetPairNumberFromColor.h"
-#include "testColorCodeReferenceManual.h"
+#include "testColorCode.h"
 
 // Define a flag to control printing the color reference manual
 int printColorReferenceManual = 0;
