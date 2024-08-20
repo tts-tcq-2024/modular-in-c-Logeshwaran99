@@ -2,6 +2,8 @@
 #define TESTCOLORCODE_H
 
 #include "ColorCode.h"
+#include "GetColorFromPairNumber.h"
+#include "GetPairNumberFromColor.h"
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
